@@ -7,4 +7,4 @@ This is a functional bookbuy site by Ashish, it is based on mern stack and it ha
 ## cart icon
 # Deployed link
 https://kindle-bookstore.netlify.app/
-Be patient mainpage will take some times to load.
+# Be patient mainpage will take some times to load.
