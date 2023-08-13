@@ -1,0 +1,14 @@
+
+
+:root {
+  --grey : #ddd;
+  --black : #000;
+  --white : #ffffff;
+  --font-grey : #717171;
+  --theme : #ff385c;
+  --light-grey : #f7f7f7;
+}
+*body {
+  font-family: 'Roboto Condensed', sans-serif;
+   background-color:  '#f9f9f9';
+}
